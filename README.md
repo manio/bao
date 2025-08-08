@@ -4,7 +4,7 @@ BaoGPT is an AI project that allows you to ask questions about youtube videos.
 
 * Web UI (based on Gradio)
 ![Gradio Web UI](/gradio-ui.png)
-* Discrod
+* Discord
 ![Discord](discord.png)
 
 > In the case, the target youtube video is [Let's build the GPT Tokenizer](https://www.youtube.com/watch?v=zduSFxRajkE) from Andrej Karpathy.
